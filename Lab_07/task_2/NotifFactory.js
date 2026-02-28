@@ -22,4 +22,4 @@ export class NotificationFactory {
   static getSupportedTypes() {
     return ["email", "sms", "push"];
   }
-}
+}   
